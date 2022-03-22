@@ -7,7 +7,7 @@
 - 编译方法：  
 进入 openwrt sdk 目录，执行：
 ```
-git clone https://github.com/ssuperh/-luci-app-vlmcsd-1.git package/luci-app-vlmcsd
+git clone https://github.com/ssuperh/luci-app-vlmcsd-new.git package/luci-app-vlmcsd-new
 make menuconfig
 make package/luci-app-vlmcsd/compile V=99
 ```
